@@ -1,4 +1,4 @@
-#include "binary_hpp"
+#include "binary.hpp"
 
 
  pair<int, int*> Digit::binSum (Digit *a){
